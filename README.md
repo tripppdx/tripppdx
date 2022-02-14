@@ -39,8 +39,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tripppdx&show_icons=true&theme=gotham" alt="tripppdx" />
 
- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=tripppdx.visitor.issue.1&left_color=green&right_color=red)
-
 <!--
 **tripppdx/tripppdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
